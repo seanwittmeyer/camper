@@ -5,7 +5,7 @@ Camper is a summer camp registration and management platform for Scouting Counci
 
 ![Camper Screenshot](screenshot.png)
 
-Installation
+Overview
 --------------------------
 
 Camper was first launched in 2005 by Sean Wittmeyer for Longs Peak Council and the summer camp operations at Ben Delatour Scout Ranch. It was in active development until its replacement came along in 2014. It is a full featured summer camp management platform that supported both simple events such as a single weekend campout and complex multi-session events such as a 10 week summer camp. Class and activity and merit badge registration with waitlisting, group/troop management with participant trackers, payments, scheduling tools, event reporting tools, and a communication platform made up the bulk of the website. It also featured unique portals for participants/leaders, council staff, and a lightweight and mobile-ready At-Camp module for attendance. 
