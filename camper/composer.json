@@ -1,0 +1,10 @@
+{
+	"name": "zilifone/camper",
+    "require": {
+        "omnipay/omnipay": "~2.0",
+        "knplabs/knp-snappy": "*",
+        "h4cc/wkhtmltopdf-i386": "0.12.x",
+        "h4cc/wkhtmltopdf-amd64": "0.12.x",
+        "sparkpost/php-sparkpost": "^1.0"
+    }
+}

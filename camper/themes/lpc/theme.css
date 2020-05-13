@@ -1,0 +1,22 @@
+/* 
+ * Camper Styles - LPC Theme
+ *
+ * This is the Longs Peak Council theme for Camper. It simply overrides styles
+ * in the base camper.css stylesheet which is designed as the generic theme.
+ * Simply copy any styles from camper.css and include them edited here.
+ *
+ * File: camper/themes/lpc/theme.css
+ * Copyright (c) 2015 Zilifone
+ * Version 1.5.0 (2014 12 27 1116)
+ * Edited by Sean Wittmeyer (sean@zilifone.net)
+ * 
+ */
+body#fullbg {
+	background: #333 url('bg.jpg') no-repeat top center; 
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='bg.jpg', sizingMethod='scale');
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='bg.jpg', sizingMethod='scale')";
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
